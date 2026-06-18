@@ -1,0 +1,9 @@
+{
+  "name": "log-decorator-lib",
+  "version": "1.0.0",
+  "description": "Configuranble logging decorator with log levels for sync and async functions",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT"
+}
