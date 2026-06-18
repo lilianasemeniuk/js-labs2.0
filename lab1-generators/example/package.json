@@ -1,0 +1,12 @@
+{
+  "name": "color-cycle-example",
+  "version": "1.0.0",
+  "description": "Usage examples for the color-cycle-lib library",
+  "type" : "module",
+  "main": "index.js",
+  "author" : "Liliana Semeniuk",
+  "license": "MIT",
+  "dependencies": {
+    "color-cycle-lib": "file:../lib"
+  }
+}
