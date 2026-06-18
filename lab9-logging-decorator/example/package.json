@@ -1,0 +1,12 @@
+{
+  "name": "log-decorator-example",
+  "version": "1.0.0",
+  "description": "Usage examples for the log-decorator-lib library",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT",
+  "dependencies": {
+    "log-decorator-lib": "file:../lib"
+  }
+}
