@@ -17,3 +17,15 @@ async function loadUser(id) {
 const loggedLoad = log(loadUser, "INFO");
 
 loggedLoad(1);
+
+
+function divide(a, b) {
+    if (b === 0) {
+        throw new Error("Division by zero");
+    }
+    return a / b;
+}
+
+const loggedDivide = log(divide, "ERROR");
+
+loggedDivide(10, 0);
