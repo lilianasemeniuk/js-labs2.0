@@ -1,0 +1,9 @@
+{
+  "name": "event-emitter-lib",
+  "version": "1.0.0",
+  "description": "A simple reactive EventEmitter with subscribe, unsubscribe and isolated listeners",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT"
+}
