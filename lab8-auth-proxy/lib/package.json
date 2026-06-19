@@ -1,0 +1,9 @@
+{
+  "name": "auth-proxy-lib",
+  "version": "1.0.0",
+  "description": "Authentication proxy using Proxy pattern and dependency injection",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT"
+}
