@@ -1,0 +1,9 @@
+{
+  "name": "memoize-lib",
+  "version": "1.0.0",
+  "description": "Memoization with configurable eviction strategies (LRU, LFU, TTL)",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT"
+}
