@@ -1,0 +1,12 @@
+{
+  "name": "event-emitter-example",
+  "version": "1.0.0",
+  "description": "Usage example for the event-emitter-lib",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT",
+  "dependencies": {
+    "event-emitter-lib": "file:../lib"
+  } 
+}
