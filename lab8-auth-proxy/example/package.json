@@ -1,0 +1,12 @@
+{
+  "name": "auth-proxy-example",
+  "version": "1.0.0",
+  "description": "Usage example for auth-proxy-lib",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT",
+  "dependencies": {
+    "auth-proxy-lib": "file:../lib"
+  }
+}
