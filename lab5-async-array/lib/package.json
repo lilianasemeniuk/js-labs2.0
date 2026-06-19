@@ -1,0 +1,9 @@
+{
+  "name": "async-array-lib",
+  "version": "1.0.0",
+  "description": "Async variants of array map: callback-based, promise-based, with abort support",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT"
+}
