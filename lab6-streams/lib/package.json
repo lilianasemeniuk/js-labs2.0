@@ -1,0 +1,13 @@
+{
+  "name": "stream-processor-lib",
+  "version": "1.0.0",
+  "description": "Memory-efficient large data processing with async iterators",
+  "type": "module",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
