@@ -1,0 +1,12 @@
+{
+  "name": "priority-queue-example",
+  "version": "1.0.0",
+  "description": "Usage example for priority-queue-lib",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT",
+  "dependencies": {
+    "priority-queue-lib": "file:../lib"
+  }
+}
