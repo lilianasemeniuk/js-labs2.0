@@ -1,0 +1,12 @@
+{
+  "name": "async-array-example",
+  "version": "1.0.0",
+  "description": "Usage example for async-array-lib",
+  "type": "module",
+  "main": "index.js",
+  "author": "Liliana Semeniuk",
+  "license": "MIT",
+  "dependencies": {
+    "async-array-lib": "file:../lib"
+  }
+}
